@@ -17,7 +17,7 @@ Este proyecto es una aplicación web que permite a los usuarios ingresar nombres
 ## Instalación y uso
 1. Clonar el repositorio:
    ```sh
-   git clone https://
+   git clone https://kevingf23.github.io/Desafio-Amigo-Secreto/
    ```
 2. Abrir el archivo `index.html` en un navegador web.
 
